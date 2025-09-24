@@ -5,3 +5,5 @@ Within the project folder, there will be a source of the idea for the project, m
 
 Made using PyCharm as the code editor.
 
+My main goal with this, is to become an AI Engineer.
+
